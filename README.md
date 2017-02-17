@@ -1,4 +1,4 @@
-yii2-widget-depdrop
+yii2-widget-depdrop - multiple v.1.0.4
 ===================
 
 [![Latest Stable Version](https://poser.pugx.org/kartik-v/yii2-widget-depdrop/v/stable)](https://packagist.org/packages/kartik-v/yii2-widget-depdrop)
