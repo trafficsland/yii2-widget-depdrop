@@ -6,7 +6,7 @@ yii2-widget-depdrop + supports multiple select v.1.0.0
 To install, either run
 
 ```
-$ php composer.phar require trafficsland/yii2-widget-depdrop "*"
+$ composer require trafficsland/yii2-widget-depdrop "*"
 ```
 
 or add
