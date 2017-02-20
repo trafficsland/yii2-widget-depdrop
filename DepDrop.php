@@ -7,7 +7,7 @@
  * @version 1.0.4
  */
 
-namespace kartik\depdrop;
+namespace trafficsland\depdrop;
 
 use kartik\base\InputWidget;
 use kartik\base\Config;

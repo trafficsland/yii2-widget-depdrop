@@ -5,7 +5,7 @@
  * @subpackage yii2-widget-depdrop
  * @version 1.0.4
  */
-namespace kartik\depdrop;
+namespace trafficsland\depdrop;
 use kartik\base\AssetBundle;
 /**
  * Asset bundle for Dependent Dropdown Extension for Yii
